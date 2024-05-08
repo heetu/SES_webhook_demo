@@ -6,8 +6,8 @@ import psycopg2
 from psycopg2 import sql
 
 dbname = "postgres"
-user = "postgres"
-password = "4lQ}EI|2<7lEfjbP+[3Bvy|7vYU5"
+user = "ses_role"
+password = "SES@1411"
 host = "synergi-db-instance-1.cegvievfjkqm.us-east-1.rds.amazonaws.com"
 port = "5432"
 table = "email_reporting"
