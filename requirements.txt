@@ -1,0 +1,7 @@
+flask
+requests
+psycopg2
+gunicorn
+beautifulsoup4
+lxml
+pytest
